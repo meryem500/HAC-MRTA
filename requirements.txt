@@ -1,0 +1,11 @@
+# SmartCity MRTA — Python 3.12 friendly stack
+Flask>=3.1,<4
+pydantic>=2.10,<3
+numpy>=2.0,<3
+pytest>=8,<9
+langgraph>=1.2,<2
+openai>=1.90,<3
+python-dotenv>=1.0,<2
+ortools>=9.12,<10
+
+anthropic>=0.70.0
